@@ -70,5 +70,5 @@ __Python scripting, Data Collection, Streamlit, API integration, Data Management
 ### Demo Video:
  YT URL: https://youtu.be/qsHF35eShKk
 ### Contact
-LINKEDIN :  www.linkedin.com/in/gokul-m-j17/           
+LINKEDIN : https://www.linkedin.com/in/madhanraj-gunasekar-329587163/          
 EMAIL:gmadhanraj60@gmail.com
